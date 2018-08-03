@@ -1,5 +1,5 @@
 # simblee_flowmonitor
-  SIMPLE SIMBLEE FLOW MONITOR
+  <b>SIMPLE SIMBLEE FLOW MONITOR</b>
   
   This sketch reads from a FS400A Water Flow Sensor and displays the outputs via the Simblee mobile app.
   
@@ -18,15 +18,15 @@
   I'm also not totally convinced that the calirbation of the flow sensor is right. This probably could be adjusted
   in code to avoid the tril/error/recompile process.
   
-  Author: XeriSytems 2018
+  Author: Xeri Systems 2018
   
-  References:
-   Sparkfun Simblee Breakout can be purchased here: https://www.sparkfun.com/products/13632
-   Flow Sensor can be purchased here: https://www.ebay.com.au/itm/FS400A-G1-1-2Mpa-Water-Flow-Sensor-Hall-Effect-Flowmeter-Counter-1-60L-min-/152172303810
-   Basic flow sensor code can be found here: http://www.hobbytronics.co.uk/download/YF-S201.ino
-   Some info on how to calibrate a flow sensor: 
-       https://github.com/sekdiy/FlowMeter/wiki/Calibration
-       http://wiki.seeedstudio.com/G3-4_Water_Flow_sensor/
-       https://www.electroschematics.com/12145/working-with-water-flow-sensors-arduino/
-       https://maker.pro/arduino/tutorial/how-to-interface-arduino-with-flow-rate-sensor-to-measure-liquid
+  <p>References:</p>
+   <p>Sparkfun Simblee Breakout can be purchased here: https://www.sparkfun.com/products/13632</p>
+   <p>Flow Sensor can be purchased here: https://www.ebay.com.au/itm/FS400A-G1-1-2Mpa-Water-Flow-Sensor-Hall-Effect-Flowmeter-Counter-1-60L-min-/152172303810</p>
+   <p>Basic flow sensor code can be found here: http://www.hobbytronics.co.uk/download/YF-S201.ino</p>
+   <p>Some info on how to calibrate a flow sensor: </p>
+       <p>https://github.com/sekdiy/FlowMeter/wiki/Calibration</p>
+       <p>http://wiki.seeedstudio.com/G3-4_Water_Flow_sensor/</p>
+       <p>https://www.electroschematics.com/12145/working-with-water-flow-sensors-arduino/</p>
+       <p>https://maker.pro/arduino/tutorial/how-to-interface-arduino-with-flow-rate-sensor-to-measure-liquid</p>
 
